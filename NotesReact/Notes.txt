@@ -1,0 +1,6 @@
+ 
+ Basics Of react
+ 
+ - Whenever creating component in react Make sure to use First letter CAPITAL.
+ - return statement always returning  a single thing for returning many thing we can use this fragments "<> </>".
+ - Don't Forget to export component  in component file 
